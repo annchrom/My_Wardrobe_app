@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # My_Wardobe_app
 My Wardrobe is a web application for managing a personal wardrobe.
-=======
-MyWardrobe is a web application for managing a personal wardrobe.
+
 
 The application allows users to store clothing items with photos, create outfits, track clothing usage, and analyze wardrobe statistics.
 
