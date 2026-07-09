@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My_Wardobe_app
 My Wardrobe is a web application for managing a personal wardrobe.
 
@@ -88,3 +87,27 @@ The main goal of the application is to help users:
 
 
 >>>>>>> 64c1db8 (docs: create initial project documentation)
+
+## MVP - Version 1.0
+
+The first version of the application will focus on basic wardrobe management.
+
+### Included features
+
+- User can create an account
+- User can add clothing items
+- User can upload clothing photos
+- User can view their wardrobe
+- User can edit clothing details
+- User can delete clothing items
+- User can filter clothing items by category, color and season
+
+### Not included in MVP
+
+The following features will be implemented in later versions:
+
+- Outfit creation
+- Outfit ratings
+- Wear history
+- Wardrobe statistics
+- Outfit recommendations
